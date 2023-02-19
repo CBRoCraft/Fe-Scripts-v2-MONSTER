@@ -25,7 +25,7 @@ do -- UI
 	local Pendulum = Library:New("Pendulum Hub")
 	local SettingsTab = Pendulum:NewTab("Settings")
 	local CreditsTab = Pendulum:NewTab("Credits")
-	local OMGFESEX = Pendulum:NewTab("[+18 Not recommended]")
+	local OMGFESEX = Pendulum:NewTab("S*x 😏 [+18 Not recommend]")
 	local LOL = Pendulum:NewTab("Bypass Audio Update")
 	local ScriptsTab = Pendulum:NewTab("Scripts")
 	local reanimtype = SettingsTab:NewLabel('Reanimation type: ' .. Global.Reanimation)
@@ -833,11 +833,7 @@ do -- UI
 	end
 	
 	do -- Credits
-		CreditsTab:NewLabel("Credits to Tescalus#3758 for making the entire hub")
-		CreditsTab:NewLabel("Credits to padero#3957 for the Coffeeware tab")
-		CreditsTab:NewLabel("Ty ProductionTakeOne#3330 for help with new reanimation")
-		CreditsTab:NewLabel("Old ui was made by charli#4616")
-		CreditsTab:NewLabel("New ui was made by padero#3957")
+		CreditsTab:NewLabel("Credits to RoDev#3758 for making the entire hub - TBA")
 		
 		CreditsTab:NewButton("\67\111\112\121\32\68\105\115\99\111\114\100\32\73\110\118\105\116\101", "\67\111\112\105\101\115\32\116\104\101\32\105\110\118\105\116\101\46.", function()
 			setclipboard("\100\105\115\99\111\114\100\46\103\103\47\71\113\98\77\53\87\69\80\100\113")
