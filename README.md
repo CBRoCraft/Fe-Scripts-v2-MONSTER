@@ -4,8 +4,10 @@
 -- SUBSCRIBE TO TBA PROGRAMMING FOR MORE SCRIPTS
 -- Uploaded By CBRoCraft
 
+# Script 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CBRoCraft/Fe-Scripts-v2-MONSTER/main/Script.lua"))()
 
+#
 
 Profile in Pastebin https://pastebin.com/u/CraftyGaming244
 
