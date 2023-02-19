@@ -4,7 +4,7 @@
 -- SUBSCRIBE TO TBA PROGRAMMING FOR MORE SCRIPTS
 -- Uploaded By CBRoCraft
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CBRoCraft/Fe-Scripts-v2-MONSTER/main/Script.lua"))()
 
 
 Profile in Pastebin https://pastebin.com/u/CraftyGaming244
